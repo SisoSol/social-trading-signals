@@ -1,5 +1,7 @@
 # social-trading-signals
 
+[![License: MIT](https://img.shields.io/github/license/SisoSol/social-trading-signals?style=flat-square&color=blue)](LICENSE) [![Last commit](https://img.shields.io/github/last-commit/SisoSol/social-trading-signals?style=flat-square)](https://github.com/SisoSol/social-trading-signals/commits) [![CI](https://github.com/SisoSol/social-trading-signals/actions/workflows/ci.yml/badge.svg)](https://github.com/SisoSol/social-trading-signals/actions/workflows/ci.yml) [![Built for 1322.io](https://img.shields.io/badge/built%20for-1322.io-3b82f6?style=flat-square)](https://1322.io) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/SisoSol/social-trading-signals/pulls)
+
 Pipe **real-time social posts into your trading bot.** A tiny Python harness
 that consumes a **WebSocket** of normalized social events (X, Truth Social,
 Binance Square) and hands each one to your strategy function in milliseconds, so
